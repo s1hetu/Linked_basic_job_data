@@ -1,12 +1,15 @@
 # Prerequisite
 
 - [selenium](https://pypi.org/project/selenium/)
+- [virtualenv](https://pypi.org/project/virtualenv/)
 
 # Virtual Environment
 
+```
 virtualenv name
 
 source name/bin/activate
+```
 
 # Install Requirements
 
