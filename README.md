@@ -20,7 +20,7 @@ pip install -r requirement.txt
 # Run Project
 
 ```python
-python3 get_basic_data
+python3 main.py
 ```
 
 # Description
